@@ -10,8 +10,10 @@ Using the image above, locate __pin 40__ with label **GPIO 21**. This will be th
 
 With hardware setup complete you may now power the Raspberry Pi.
 
-## Install Dependencies
-After __git clone https...__ enter the repo by using `cd mahrio-motion-server-mobile`. Then run the following commands to install dependencies.
+## Clone this Repo and Install Dependencies
+Clone this repo using `git clone https://github.com/ComputerEnchiladas/mahrio-motion-server-mobile.git` under WNM499.
+
+Next enter the repo by using `cd mahrio-motion-server-mobile`. Then run the following commands to install dependencies.
 - ```npm install``` - server dependencies
 - ```bower install``` - client dependencies
 
