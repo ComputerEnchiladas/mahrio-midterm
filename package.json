@@ -1,21 +1,13 @@
 {
-  "name": "mahrio-midterm",
+  "name": "mahrio-motion-server-mobile",
   "version": "1.0.0",
-  "description": "WNM499: Internet Of Things; Midterm Review",
+  "description": "WNM499: Motion Sensor on Server with Mobile client",
   "main": "server/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ComputerEnchiladas/mahrio-midterm.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ComputerEnchiladas/mahrio-midterm/issues"
-  },
-  "homepage": "https://github.com/ComputerEnchiladas/mahrio-midterm#readme",
   "dependencies": {
     "boom": "2.10.1",
     "ejs": "2.4.2",
