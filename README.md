@@ -39,6 +39,6 @@ With server running, navigate to the device's address with port. You should see 
 ## Build & Test with Mobile App
 You will need to download **Ionic View** for either IOS or Android. When app downloads, open and register with it. You will need the registration info in the next step.
 
-Now we will navigate into mobile folder using `cd mobile`. Next, initiate upload of the mobile app to your account with the command: `ionic upload`. When upload completes, go back to **Ionic View** on your phone and you should see the app. Open it and see the same grey circle which turns green when button or motion is active.
+Now we will navigate into mobile folder using `cd mobile`. Next, initiate upload of the mobile app to your account with the command: `ionic upload`. When upload completes, go back to **Ionic View** on your phone and you should see the app. Open it and see the same grey circle which turns green when button or motion is active. If you still not seeing the test you can go back and make changes in mobile and use `ionic update` again.
 
 Questions? Send them to jesus.rocha at whichdegree.co
